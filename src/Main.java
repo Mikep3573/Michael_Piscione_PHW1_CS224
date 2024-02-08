@@ -53,10 +53,10 @@ public class Main {
         // Prompt user for choice of starting node
         System.out.print("What node would you like to start with?: ");
 
-        // Get user choice of starting node
+        // Get user choice of starting node and check for valid input
         boolean valid = false;
         int nodeChoice = 0;
-        while (!valid) { // Check for valid input
+        while (!valid) {
             Scanner input = new Scanner(System.in);
             valid = true;
             try {
@@ -70,10 +70,10 @@ public class Main {
         // Prompt for user choice of algorithm
         System.out.print("What algorithm would you like to run? (type BFS or DFS): ");
 
-        // Get user choice of algorithm
+        // Get user choice of algorithm and check for valid input
         Scanner userInput = new Scanner(System.in);
         String algChoice = userInput.nextLine();
-        while (!Objects.equals(algChoice.toLowerCase(), "bfs") // Check for valid input
+        while (!Objects.equals(algChoice.toLowerCase(), "bfs")
                 && !Objects.equals(algChoice.toLowerCase(), "dfs")) {
             System.out.print("Please type either BFS or DFS as your choice: ");
             algChoice = userInput.nextLine();
@@ -81,11 +81,17 @@ public class Main {
 
         // Call chosen algorithm
         if (Objects.equals(algChoice.toLowerCase(), "bfs")) {
+            // Create BFS object
             BFS alg = new BFS(fQueue, nodeChoice);
+
+            // Call BFS Algorithm
             alg.bFSAlgorithm(adjacencyList);
         }
         else {
+            // Create DFS object
             DFS alg = new DFS(lQueue, nodeChoice);
+
+            // Call DFS Algorithm
             alg.dFSAlgorithm(adjacencyList);
         }
 

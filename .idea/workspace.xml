@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec0a8154-c31a-447a-a55a-efb85534c887" name="Changes" comment="Made the program">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Michael_Piscione_PHW1_CS224.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm_Classes/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm_Classes/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithm_Classes/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm_Classes/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/FIFO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/FIFO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/LIFO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/LIFO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LX1uB9axoS1CA8IIUpOigJ0HN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mpisc/IdeaProjects/Michael_Piscione_PHW1_CS224&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mpisc\IdeaProjects\Michael_Piscione_PHW1_CS224\src" />
+      <recent name="C:\Users\mpisc\IdeaProjects\Michael_Piscione_PHW1_CS224\Classes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec0a8154-c31a-447a-a55a-efb85534c887" name="Changes" comment="" />
+      <created>1676002834962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676002834962</updated>
+      <workItem from="1676002836463" duration="1580000" />
+      <workItem from="1676150404338" duration="20887000" />
+      <workItem from="1676176812150" duration="8000" />
+      <workItem from="1676243066040" duration="9632000" />
+      <workItem from="1676763927983" duration="2000" />
+      <workItem from="1676962783340" duration="18000" />
+      <workItem from="1677370134708" duration="679000" />
+      <workItem from="1677454169180" duration="1330000" />
+      <workItem from="1707363466115" duration="76000" />
+    </task>
+    <task id="LOCAL-00001" summary="Made the program">
+      <created>1676176794142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676176794142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made the program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the program" />
+  </component>
+</project>
